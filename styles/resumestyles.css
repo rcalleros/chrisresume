@@ -1,0 +1,62 @@
+body{
+  background-color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.name{
+  font-size: 50px;
+
+}
+.wrap{
+  max-width: 1100px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+#resume{
+  padding: 75px;
+}
+.titles{
+  font-size: 30px;
+}
+.underline{
+  width: 30px;
+  height: 4px;
+  display: block;
+  background-color: black;
+}
+.subtext{
+  font-size: 18px;
+}
+.progressbar{
+  background: lightgrey;
+  width: 200px;
+  height: 7px;
+}
+.progressfill{
+  background: black;
+  height: 7px;
+}
+
+.customer-analysis-fill{
+  width: 80%;
+}
+.prod-strat-fill{
+  width: 85%;
+}
+.research-fill{
+  width: 90%;
+}
+.risk-fill{
+  width: 100%;
+}
+.prob-solving-fill{
+  width: 100%;
+}
+.verbal-written-fill{
+  width: 100%;
+}
+.relationship-fill{
+  width: 100%;
+}
+.proficiency-fill{
+  width: 70%;
+}
